@@ -83,7 +83,7 @@ These tasks were grouped under an epic. For the MVP, 2 epics were completed. The
  The Kanban board was used to organize tasks into categories for better project management. On my Kanban board, I had four columns: Backlog, In Progress, In Review, and Done. This helped maintain clear visibility of tasks and ensured smooth transitions between stages.
 
 Example of tickets from the a iteration
-![itteration1](./supporting_img/project_managamnet/Kanban_board_full.png)
+![itteration1](./supporting_img/Kanban_board_full.png)
 
 
 ### Ticket Management ###
