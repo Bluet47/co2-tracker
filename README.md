@@ -89,17 +89,17 @@ Example of tickets from the a iteration
 ### Ticket Management ###
 Each ticket was defined with a "Definition of Done" to ensure that all functional and non-functional requirements were met before moving forward. This clarity allowed the developer (myself) to track progress and ensure quality.
 The tickets also included User Stories and Acceptance Criteria to guide the development process and validate that each feature met the outlined requirements. For features with more complex requirements, I broke them down into smaller sub-tickets, ensuring each step was clear and manageable.
-![DofD](./supporting_img/project_managamnet/Definition_of_done.jfif)
+![DofD](./supporting_img/Definition_of_done.jfif)
 
 A naming convention was used for tickets to indicate their interconnections and dependencies. This helped me understand the correct order of tasks and ensured that if I collaborated with other developers, they would have a clear visibility of what had been completed and what tasks they needed to pick up next. This systematic approach streamlined the development process and maintained an efficient workflow throughout the project.
 
-![sub-ticketes](./supporting_img/project_managamnet/Sub_tickets.jfif)
+![sub-ticketes](./supporting_img/Sub_tickets.jfif)
 
 Another type of ticket that I would be keen to specifically was issues/bugs. When certain aspects of the code were not functioning properly, I created tickets and  categorised them under the "bug" label. In each bug ticket, I clearly described the issue, including the symptoms of the problem and my initial thoughts on what might be causing it. I also documented the steps I had already taken to attempt a solution, ensuring that we wouldn’t repeat the same troubleshooting efforts. Additionally, I provided possible solutions to try, helping to guide the process toward resolving the issue efficiently.
 
 ![bug_ticket](./supporting_img/project_managamnet/Fix_bug_ticket_1.jfif)
 
-![bug_ticket_2](./supporting_img/project_managamnet/Fix_bug_ticket.jfif)
+![bug_ticket_2](./supporting_img/Fix_bug_ticket.jfif)
 
 ## Technical Documentation ##
 After speaking to our Customers, we broke down their requirement into functional and non-nonfunctional requirements creating a simplified which was the basis of creating user stories and a acceptance criteria  
